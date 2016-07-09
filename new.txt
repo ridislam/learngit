@@ -2,11 +2,9 @@ My name is Rid
 I am a web programmer
 this is for add into previous commit
 //new line by ridislam
+// new line by inilabs 
 Again stash
 commit from remote
 Bye
-<<<<<<< HEAD
 //comment by ridislam
-=======
 //comment by inilabs
->>>>>>> fad4adc20bfa86a468bb7694cde937940e62fd9e
